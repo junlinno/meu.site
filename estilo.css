@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: grey;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkslategray;
+}
+
+nav ul li {
+    float: left;
+    padding: 20px;
+}
+
+nav ul li a {
+    display: block;
+    color: darkslategrey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+    width: 300px; 
+}
+
+
+div {
+
+    padding: 20px;
+    text-align: center;  
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 img {
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto {
+    text-align: justify;
+    padding: 20px;
+    margin-top: 100px;
+    font-size: 25px;
+}
+
+
+.container {
+    text-align: center;
+    display: table-cell;
+    float: left;
+    padding: 20px;
+    margin-top: -30px;
+}
+
+.container-2 {
+    text-align: center;
+    text-shadow: #333;
+    font-size: 20px;
+}
+
+.imagem-inicio {
+    border: 5px solid black;
+}
+
+.texto-inicio {
+    font-size: 25px;
+}
+
+.center {
+    display: table-cell;
+    padding: 40px;
+    position: unset
+}
+
+.texto2 h1 p {
+    display: table-cell;
+    text-align: justify;
+    float: right;
+    margin-top: -400px;
+    margin-right: 380px;
+}
+
+
+.contatos {
+
+    text-align: center;
+    margin-left: -50px;
+
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    width: 100%;
+    bottom: 100px;
+
+}
